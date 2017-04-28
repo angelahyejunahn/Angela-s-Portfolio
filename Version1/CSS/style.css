@@ -1,0 +1,26 @@
+.description {
+	font-family: 'Andale Mono', 'Courier New', 'Futura', 'Sans-Serif';
+	text-align: center;
+}
+
+h1 {
+	font-size: 57px;
+}
+
+p {
+	font-size: 20px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.container-fluid {
+	text-align: right;
+}
+
+.empty-top {
+	height: 230px;
+}
+
+.empty-bottom {
+	height: 200px;
+}
